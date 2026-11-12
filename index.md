@@ -4,11 +4,11 @@ title: Ascend Privacy Policy
 
 # Privacy Policy
 
-_Last updated: 1 November 2026._
+_Last updated: 12 November 2026._
 
 This policy explains what the Ascend app ("the app", "we") does with your data. Ascend is a working title; the app's displayed name may change.
 
-**In short:** we don't collect any data. Everything you enter stays on your iPhone. The app has no account, no server and no analytics, and it sends nothing to us or to anyone else. The System's coaching messages are written on your iPhone from built-in templates. Chronicle cards are made on your iPhone and go only where you send them. You can delete everything at any time.
+**In short:** we don't collect any data. Everything you enter stays on your iPhone (and, if you use it, your paired Apple Watch). The app has no account, no server and no analytics, and it sends nothing to us or to anyone else. The System's coaching messages are written on your iPhone from built-in templates. Chronicle cards are made on your iPhone and go only where you send them. You can delete everything at any time.
 
 ## What stays on your device
 
@@ -20,7 +20,9 @@ This policy explains what the Ascend app ("the app", "we") does with your data. 
 
 This data is stored in the app's private storage on your iPhone. It is not synced to iCloud and there is no server to send it to. It is included in your device backups as normal for app data.
 
-**Apple Health:** if you allow it, the app saves each finished Trial to Apple Health as a strength-training workout. The app only writes workouts; it never reads your Health data, and Health data never leaves your device because of the app.
+**Apple Health:** if you allow it, the app saves each finished Trial to Apple Health as a strength-training workout. If you run the Trial with Ascend on your Apple Watch, the watch saves that workout instead, with the heart rate and active energy it measured during the Trial, so the Trial also counts toward your Activity rings. One workout is saved per Trial, from the iPhone or from the watch. With Ascend on your Apple Watch, the app also reads your heart rate and active energy during a Trial, to show them on your watch. It doesn't keep those numbers, doesn't read anything else from Health, and Health data never leaves your devices because of the app.
+
+**Apple Watch:** the watch app shows the Trial running on your iPhone (the exercise, the set, the rest timer) and sends what you tap (Log set, Undo, Skip rest) back to your iPhone. They talk directly, through Apple's WatchConnectivity between your paired iPhone and watch; nothing is sent to us or to a server. The watch keeps no training log: it holds only the last Trial state your iPhone sent, and forgets it when your iPhone says the Trial is over. While a Trial runs, the watch runs a workout session so the app stays on screen and can measure heart rate and active energy for the workout above.
 
 **Notifications:** at your first rest timer with the app open, iOS asks whether the app may send you notifications. If you allow it, the app schedules one local notification on your iPhone for the end of each rest ("Rest over", the exercise, the set number and the next target), with a Log set button. It is scheduled and delivered by iOS on your device: nothing is sent to us or anyone else, the app uses no push notifications and has no device token. Turn it off in Settings (Rest-over notification) or in iPhone Settings > Notifications.
 
